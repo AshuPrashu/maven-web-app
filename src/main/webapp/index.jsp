@@ -9,7 +9,7 @@
 <h2> WELCOME TO NEW STUDENT </H2>
 If you want to growth in your carrier you can join our team!!!!!!!!!!!!
 Please contact above number you can call or whats up the above number  
-  <h3> Ofc Location : Mumbai</h3>
+  <h3> Ofc Location : Mysore</h3>
 
 </body>
 </html>
